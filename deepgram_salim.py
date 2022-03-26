@@ -1,3 +1,5 @@
+# Code written by Salim O. Oyinlola
+
 from deepgram import Deepgram
 import asyncio
 import aiohttp
@@ -39,3 +41,7 @@ async def main():
 
 
 asyncio.run(main())
+
+
+#Twitter @SalimOpines: https://twitter.com/SalimOpines
+#Github: https://www.github.com/salimcodes

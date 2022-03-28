@@ -1,4 +1,4 @@
-# Code written by Salim O. Oyinlola
+# Code written by Salim Oyinlola
 
 from deepgram import Deepgram
 import asyncio

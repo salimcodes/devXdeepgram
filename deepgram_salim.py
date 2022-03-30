@@ -1,5 +1,4 @@
 # Code written by Salim Oyinlola
-
 from deepgram import Deepgram
 import asyncio
 import aiohttp

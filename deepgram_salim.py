@@ -22,7 +22,6 @@ async def main():
     print(f'Could not open socket: {e}')
     return
 
- 
   deepgramLive.registerHandler(deepgramLive.event.CLOSE, lambda c: print(f'Connection closed with code {c}.'))
 
   
